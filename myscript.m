@@ -1,0 +1,2 @@
+openProject(pwd)
+nestedTest
