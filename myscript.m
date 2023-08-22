@@ -1,2 +1,3 @@
 openProject(pwd)
-runtests
+results = runtests;
+assertSuccess(results)
