@@ -1,2 +1,2 @@
 openProject(pwd)
-nestedtest
+runtests
