@@ -19,7 +19,7 @@ classdef nestedTestClass < matlab.unittest.TestCase
 
         function intTest(testCase)
             expected = 0x10;
-            result = nestedTest(0x0f,0x01);
+            result = nestedtest(0x0f,0x01);
             testCase.verifyEqual(result,expected);
         end
     end
